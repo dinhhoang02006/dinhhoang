@@ -3,11 +3,15 @@
    ============================================================ */
 USE master;
 GO
-IF DB_ID(N'QuanLyBanHang') IS NOT NULL
+IF DB_ID(N'QuanLyProfile') IS NOT NULL
 BEGIN
-    ALTER DATABASE QuanLyBanHang SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
-    DROP DATABASE QuanLyBanHang;
+    ALTER DATABASE QuanLyProfile SET SINGLE_USER WITH ROLLBACK IMMEDIATE;
+    DROP DATABASE QuanLyProfile;
 END
+GO
+CREATE DATABASE QuanLyProfile;
+GO
+USE QuanLyProfile;
 GO
 
 /* ============================================================
