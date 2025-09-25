@@ -1,0 +1,8 @@
+D:\Source code\Vscode\ToolRegAcc_ByDinhVanHoang\AppToolInstagram\bin\Release\net8.0-windows\publish\AppToolInstagram.exe
+D:\Source code\Vscode\ToolRegAcc_ByDinhVanHoang\AppToolInstagram\bin\Release\net8.0-windows\publish\AppToolInstagram.dll
+D:\Source code\Vscode\ToolRegAcc_ByDinhVanHoang\AppToolInstagram\bin\Release\net8.0-windows\publish\AppToolInstagram.deps.json
+D:\Source code\Vscode\ToolRegAcc_ByDinhVanHoang\AppToolInstagram\bin\Release\net8.0-windows\publish\AppToolInstagram.runtimeconfig.json
+D:\Source code\Vscode\ToolRegAcc_ByDinhVanHoang\AppToolInstagram\bin\Release\net8.0-windows\publish\AppToolInstagram.pdb
+D:\Source code\Vscode\ToolRegAcc_ByDinhVanHoang\AppToolInstagram\bin\Release\net8.0-windows\publish\Guna.UI2.dll
+D:\Source code\Vscode\ToolRegAcc_ByDinhVanHoang\AppToolInstagram\bin\Release\net8.0-windows\publish\System.Management.dll
+D:\Source code\Vscode\ToolRegAcc_ByDinhVanHoang\AppToolInstagram\bin\Release\net8.0-windows\publish\runtimes\win\lib\net7.0\System.Management.dll
